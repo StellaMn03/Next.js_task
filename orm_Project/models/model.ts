@@ -47,4 +47,3 @@ export default class Model {
     );
   }
 }
-const obj = new Model("hi");
